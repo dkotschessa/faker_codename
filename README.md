@@ -1,4 +1,14 @@
 
+# faker_codename
+Code name faker community provider
+Based on this issue: https://github.com/joke2k/faker/issues/1161
+
+https://www.codenamegenerator.com/
+
+
+
+# The below is from my last project - will update
+
 # Airtravel provider for Faker
 
 
